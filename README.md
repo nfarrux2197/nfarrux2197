@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Farrux+%F0%9F%91%8B;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;Building+scalable+systems+that+actually+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Farrux+%F0%9F%91%8B;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;Building+scalable+systems+that+actually+work;Turning+coffee+into+clean+code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 
-  <br>
+  <br><br>
 
   <img src="https://img.shields.io/badge/Status-Always%20Coding-00FF9D?style=for-the-badge&logo=python&logoColor=black" alt="Status" />
 
@@ -12,13 +12,12 @@
 
 ### 🚀 About Me
 
-**Backend-разработчик**, который любит превращать сложные задачи в элегантный и надёжный код.  
+**Backend-разработчик**, который превращает сложные задачи в быстрые, надёжные и элегантные системы.  
 
-Работаю с высоконагруженными системами, API и базами данных. Верю, что хороший backend — это не просто «работает», а **работает быстро, безопасно и красиво**.
+Люблю высокую нагрузку, чистый код и архитектуры, которые не ломаются в продакшене. Когда не пишу код — оптимизирую, изучаю новые технологии или думаю, как сделать следующий проект ещё лучше.
 
-Когда не пишу код — изучаю новые архитектуры, оптимизирую производительность или думаю, как сделать мир чуть более масштабируемым.
-
-**Текущий девиз:** *«Если оно не падает под нагрузкой 10k RPS — можно идти спать»*
+**Текущий девиз:**  
+*«Если сервис выдерживает 10k+ RPS и не падает — можно спокойно идти спать»*
 
 ---
 
@@ -31,7 +30,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-#### Frontend (чтобы понимать полный цикл)
+#### Frontend (для полного понимания)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -41,7 +40,6 @@
 #### Databases & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -52,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Activity
 
 <div align="center">
 
@@ -61,6 +59,23 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfarrux2197&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+### 🐍 Snake eating my contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nfarrux2197/nfarrux2197/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nfarrux2197/nfarrux2197/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nfarrux2197/nfarrux2197/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 🎵 Currently Vibing
+
+<!-- Замени ссылку на свою после настройки Spotify -->
+![Spotify Now Playing](https://spotify-github-profile.kittinan.com/spotify?theme=novat&bar_color=00FF9D&bar_color_cover=false)
 
 ---
 
@@ -83,8 +98,5 @@
 ---
 
 <div align="center">
-
-**"Code is like humor. When you have to explain it, it’s bad."**  
-— Cory House (но я с этим полностью согласен)
-
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </div>
