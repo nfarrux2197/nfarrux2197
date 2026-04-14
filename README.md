@@ -48,7 +48,13 @@ I specialize in building APIs, microservices, and modern backend infrastructure.
 ## Pinned Projects
 
 <!-- Pin your best repositories from GitHub profile settings (Customize your pins) -->
-https://github.com/nfarrux2197/taskflow.git
+## Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/nfarrux2197/taskflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfarrux2197&repo=taskflow&theme=radical&hide_border=true" />
+  </a>
+</p>
 
 ---
 
