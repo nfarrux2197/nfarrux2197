@@ -1,97 +1,66 @@
 <div align="center">
-
-# Farrux Nurmetov
-
-### Backend Engineer (Python)
-
+  <h1>👋 Hi, I'm Farrux</h1>
+  <p><em>Backend Developer from Xorezm</em></p>
+  <p>Building fast, reliable, and scalable backend systems with Python.</p>
 </div>
 
 ---
 
-## 👨‍💻 Summary
+## About Me
 
-Backend developer focused on building **reliable, scalable and maintainable systems**.
+Backend developer focused on clean code, high performance, and solid architecture.  
+I specialize in building APIs, microservices, and modern backend infrastructure.
 
-I work with Python ecosystems and enjoy designing APIs, backend architecture, and performance-oriented systems.
-
----
-
-## 🧠 Focus Areas
-
-- API Design & Development
-- Backend Architecture (Monolith / Microservices)
-- Database Design & Optimization
-- Caching Strategies (Redis)
-- Performance & Scalability
-- Clean Code & System Design
+**Currently focusing on:**
+- FastAPI and high performance
+- Event-driven architecture
+- Database optimization and caching
 
 ---
 
-## 🛠 Tech Stack
+## Technologies
 
-**Core**
-- Python
-- FastAPI
-- Django
-- Flask
+**Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-**Databases**
-- PostgreSQL
-- Redis
-
-**Dev & Infra**
-- Docker
-- Linux
-- Git
-- Nginx (basic deployment)
+**Databases & DevOps**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Project
-
-### TaskFlow
-**Task management backend system**
-
-- Built with Python
-- Focus on clean architecture
-- Designed for scalability and performance
-- REST API-based system
-
-🔗 https://github.com/nfarrux2197/taskflow
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nfarrux2197&show_icons=true&hide_border=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfarrux2197&layout=compact&hide_border=true" height="160"/>
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nfarrux2197&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nfarrux2197&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 📌 Principles
+## Pinned Projects
 
-- Write code that is easy to maintain, not just to run
-- Optimize only when needed, not prematurely
-- Prefer simplicity over complexity
-- Think in systems, not just functions
+<!-- Pin your best repositories from GitHub profile settings (Customize your pins) -->
 
+- 🚀 **[taskflow](https://github.com/nfarrux2197/taskflow)**  
+  Fast and scalable task management backend built with Python.
 ---
 
-## 📫 Contact
-
-- Telegram: https://t.me/GG_LOLIMNOTDIE_GG  
-- LinkedIn: https://www.linkedin.com/in/farrux-nurmetov-a031493a0/  
-- Email: nfarrux2197@gmail.com  
-
----
+## Contact Me
 
 <div align="center">
-
-**“Clean architecture beats clever code.”**
-
+  <a href="https://t.me/GG_LOLIMNOTDIE_GG"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://www.linkedin.com/in/farrux-nurmetov-a031493a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nfarrux2197@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
+
+---
+
+Made with ❤️ and Python
