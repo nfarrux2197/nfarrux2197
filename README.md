@@ -49,11 +49,7 @@ I specialize in building APIs, microservices, and modern backend infrastructure.
 
 <!-- Pin your best repositories from GitHub profile settings (Customize your pins) -->
 
-<p align="center">
-  <a href="https://github.com/nfarrux2197/taskflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfarrux2197&repo=taskflow&theme=radical" />
-  </a>
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nfarrux2197&repo=taskflow&theme=radical" /><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nfarrux2197&repo=taskflow&theme=radical" />
 
 ---
 
