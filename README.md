@@ -1,29 +1,29 @@
-<!-- MATRIX HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=200&section=header&text=FARRUX&fontColor=00FF00&fontSize=50&animation=fadeIn" />
+<!-- ULTRA HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001100,100:00FF00&height=250&section=header&text=FARRUX.exe&fontSize=55&fontColor=00FF00&animation=fadeIn&fontAlignY=35"/>
 
-<!-- MATRIX TYPING -->
+<!-- TERMINAL TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Access+Granted...;Backend+Developer;Python+Django+Flask;System+Online;Welcome+to+the+Matrix" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&color=00FF00&center=true&vCenter=true&width=700&lines=booting+system...;initializing...;access+granted+✔;Backend+Developer;Python+Django+Flask;Welcome+to+my+profile" />
 </p>
 
-<!-- MATRIX GIF -->
+<!-- GLITCH DIVIDER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="0"> <!-- фикс чтобы не лагало -->
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/216656951-0f7f3f6c-9e5f-4f91-8c0b-2e8c2dbe3f3c.gif" width="100%" />
 </p>
 
 ---
 
-## 🧠 SYSTEM INFO
+## 🖥️ TERMINAL
 ```bash
-> whoami
-Farrux
+> boot Farrux.exe
 
-> role
-Backend Developer
+[✔] Loading profile...
+[✔] Backend Developer detected
+[✔] Python environment ready
+[✔] Systems running...
 
-> stack
-Python / Django / Flask
+> skills --list
+Python, Django, Flask, APIs, Automation
 
 > status
-Online 🟢
+ONLINE 🟢
