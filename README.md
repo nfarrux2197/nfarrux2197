@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- 🌊 WAVE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Farrux%20Dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
@@ -7,6 +8,20 @@
 # 👋 Hi, I'm Farrux
 
 💻 Backend Developer | 🚀 Python Engineer | ⚡ System Builder  
+
+---
+
+# 🌌 Skyline + Wave Effect
+
+<div align="center">
+
+<!-- 🌆 SKYLINE ANIMATION -->
+<img src="https://i.imgur.com/3ZQ3Z9h.gif" width="100%"/>
+
+<!-- 🌊 WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+
+</div>
 
 ---
 
@@ -37,3 +52,7 @@ https://github-readme-stats.vercel.app/api?username=nfarrux2197&show_icons=true&
 Telegram: https://t.me/GG_LOLIMNOTDIE_GG
 LinkedIn: https://www.linkedin.com/in/farrux-nurmetov-a031493a0/
 Gmail: nfarrux2197@gmail.com
+
+---
+
+⭐ "Code is creativity"
