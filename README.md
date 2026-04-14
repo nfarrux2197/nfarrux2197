@@ -1,4 +1,3 @@
-// ...existing code...
 <div align="center">
 
 # 👋 Hi, I'm <a href="https://github.com/nfarrux2197">Farrux</a>
@@ -41,10 +40,6 @@
 <a href="mailto:nfarrux2197@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
-<!-- Tip: to show different themes for GitHub stats, change `theme=` parameter in the stats URL. -->
-// ...existing code...
-
-// ...existing code...
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="80" viewBox="0 0 320 80" role="img" aria-label="Animated eye">
   <defs>
@@ -106,4 +101,3 @@
     </g>
   </g>
 </svg>
-// ...existing code...
