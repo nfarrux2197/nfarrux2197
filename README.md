@@ -1,58 +1,29 @@
 <div align="center">
-
-  <!-- Минималистичная космическая SVG -->
-  <svg width="720" height="160" viewBox="0 0 720 160" xmlns="http://www.w3.org/2000/svg" style="border-radius: 12px; background: #0a0a1a;">
-    <defs>
-      <radialGradient id="nebula" cx="40%" cy="50%" r="70%">
-        <stop offset="0%" stop-color="#1a0033" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#0a0a1a"/>
-      </radialGradient>
-    </defs>
-    
-    <rect width="720" height="160" fill="#0a0a1a"/>
-    <ellipse cx="180" cy="80" rx="140" ry="65" fill="url(#nebula)" opacity="0.6"/>
-    
-    <!-- Мерцающие звёзды -->
-    <circle cx="80" cy="40" r="2" fill="#ffffff">
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="320" cy="55" r="1.5" fill="#ffffff">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="480" cy="35" r="2.2" fill="#ffffff">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="3.8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="620" cy="90" r="1.8" fill="#ffffff">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/>
-    </circle>
-    
-    <text x="360" y="125" font-family="system-ui, sans-serif" font-size="26" font-weight="600" fill="#00e6c3" text-anchor="middle" letter-spacing="-1">
-      FARRUX NURMETOV
-    </text>
-  </svg>
-
-  <h2>Backend Developer</h2>
-  <p>Строю надёжные и масштабируемые системы из Ташкента 🌌</p>
-
+  <h1>👋 Привет, я Farrux Nurmetov</h1>
+  <p><em>Backend Developer из Ташкента</em></p>
 </div>
 
 ---
 
-### Обо мне
+## Обо мне
 
-Привет! Я — Farrux, backend-разработчик.  
-Специализируюсь на создании чистого, быстрого и поддерживаемого кода.  
-Работаю с высоконагруженными приложениями, API и современной инфраструктурой.
+Backend-разработчик, специализируюсь на создании быстрых, надёжных и масштабируемых веб-приложений.  
+Работаю с Python, Django, FastAPI и современной инфраструктурой.
 
-### Технологии
+Люблю чистый код, производительность и системы, которые работают стабильно под нагрузкой.
 
-**Backend**  
+---
+
+## Технологии
+
+### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**Базы и инструменты**  
+### Базы данных и инструменты
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -61,7 +32,7 @@
 
 ---
 
-### Связаться со мной
+## Контакты
 
 <div align="center">
   <a href="https://t.me/GG_LOLIMNOTDIE_GG"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -71,4 +42,4 @@
 
 ---
 
-Сделано с ❤️ и Python в Ташкенте
+Сделано в Ташкенте с ❤️ и Python
