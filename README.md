@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm Farrux Nurmetov</h1>
-  <p><em>Backend Developer from Tashkent</em></p>
+  <h1>👋 Hi, I'm Farrux</h1>
+  <p><em>Backend Developer from Xorezm</em></p>
   <p>Building fast, reliable, and scalable backend systems with Python.</p>
 </div>
 
@@ -61,4 +61,4 @@ I specialize in building APIs, microservices, and modern backend infrastructure.
 
 ---
 
-Made in Tashkent with ❤️ and Python
+Made with ❤️ and Python
