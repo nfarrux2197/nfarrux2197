@@ -43,12 +43,13 @@ Python • Django • Flask • Docker • PostgreSQL • Redis • Linux
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nfarrux2197&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfarrux2197&layout=compact&theme=tokyonight" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nfarrux2197&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfarrux2197&layout=compact&theme=tokyonight"/>
 
 </div>
 
