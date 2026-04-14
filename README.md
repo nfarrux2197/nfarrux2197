@@ -51,7 +51,7 @@ I specialize in building APIs, microservices, and modern backend infrastructure.
 
 <p align="center">
   <a href="https://github.com/nfarrux2197/taskflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfarrux2197&repo=taskflow&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfarrux2197&repo=taskflow&theme=radical" />
   </a>
 </p>
 
