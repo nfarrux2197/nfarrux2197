@@ -1,30 +1,44 @@
-<!-- ULTRA HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001100,100:00FF00&height=250&section=header&text=FARRUX.exe&fontSize=55&fontColor=00FF00&animation=fadeIn&fontAlignY=35"/>
-
-<!-- TERMINAL TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&color=00FF00&center=true&vCenter=true&width=700&lines=booting+system...;initializing...;access+granted+✔;Backend+Developer;Python+Django+Flask;Welcome+to+my+profile" />
-</p>
-
-<!-- GLITCH DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656951-0f7f3f6c-9e5f-4f91-8c0b-2e8c2dbe3f3c.gif" width="100%" />
-</p>
+{"description":"Check frontend design skill for styling guidance","path":"/mnt/skills/public/frontend-design/SKILL.md"}[{"type": "text", "text": "     1\t---\n     2\tname: frontend-design\n     3\tdescription: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.\n     4\tlicense: Complete terms in LICENSE.txt\n     5\t---\n     6\t\n     7\tThis skill guides creation of distinctive, production-grade frontend interfaces that avoid generic \"AI slop\" aesthetics. Implement real working code with exceptional attention to aesthetic details and creative choices.\n     8\t\n     9\tThe user provides frontend requirements: a component, page, application, or interface to build. They may include context about the purpose, audience, or technical constraints.\n    10\t\n    11\t## Design Thinking\n    12\t\n    13\tBefore coding, understand the context and commit to a BOLD aesthetic direction:\n    14\t- **Purpose**: What problem does this interface solve? Who uses it?\n    15\t- **Tone**: Pick an extreme: brutally minimal, maximalist chaos, retro-futuristic, organic/natural, luxury/refined, playful/toy-like, editorial/magazine, brutalist/raw, art deco/geometric, soft/pastel, industrial/utilitarian, etc. There are so many flavors to choose from. Use these for inspiration but design one that is true to the aesthetic direction.\n    16\t- **Constraints**: Technical requirements (framework, performance, accessibility).\n    17\t- **Differentiation**: What makes this UNFORGETTABLE? What's the one thing someone will remember?\n    18\t\n    19\t**CRITICAL**: Choose a clear conceptual direction and execute it with precision. Bold maximalism and refined minimalism both work - the key is intentionality, not intensity.\n    20\t\n    21\tThen implement working code (HTML/CSS/JS, React, Vue, etc.) that is:\n    22\t- Production-grade and functional\n    23\t- Visually striking and memorable\n    24\t- Cohesive with a clear aesthetic point-of-view\n    25\t- Meticulously refined in every detail\n    26\t\n    27\t## Frontend Aesthetics Guidelines\n    28\t\n    29\tFocus on:\n    30\t- **Typography**: Choose fonts that are beautiful, unique, and interesting. Avoid generic fonts like Arial and Inter; opt instead for distinctive choices that elevate the frontend's aesthetics; unexpected, characterful font choices. Pair a distinctive display font with a refined body font.\n    31\t- **Color & Theme**: Commit to a cohesive aesthetic. Use CSS variables for consistency. Dominant colors with sharp accents outperform timid, evenly-distributed palettes.\n    32\t- **Motion**: Use animations for effects and micro-interactions. Prioritize CSS-only solutions for HTML. Use Motion library for React when available. Focus on high-impact moments: one well-orchestrated page load with staggered reveals (animation-delay) creates more delight than scattered micro-interactions. Use scroll-triggering and hover states that surprise.\n    33\t- **Spatial Composition**: Unexpected layouts. Asymmetry. Overlap. Diagonal flow. Grid-breaking elements. Generous negative space OR controlled density.\n    34\t- **Backgrounds & Visual Details**: Create atmosphere and depth rather than defaulting to solid colors. Add contextual effects and textures that match the overall aesthetic. Apply creative forms like gradient meshes, noise textures, geometric patterns, layered transparencies, dramatic shadows, decorative borders, custom cursors, and grain overlays.\n    35\t\n    36\tNEVER use generic AI-generated aesthetics like overused font families (Inter, Roboto, Arial, system fonts), cliched color schemes (particularly purple gradients on white backgrounds), predictable layouts and component patterns, and cookie-cutter design that lacks context-specific character.\n    37\t\n    38\tInterpret creatively and make unexpected choices that feel genuinely designed for the context. No design should be the same. Vary between light and dark themes, different fonts, different aesthetics. NEVER converge on common choices (Space Grotesk, for example) across generations.\n    39\t\n    40\t**IMPORTANT**: Match implementation complexity to the aesthetic vision. Maximalist designs need elaborate code with extensive animations and effects. Minimalist or refined designs need restraint, precision, and careful attention to spacing, typography, and subtle details. Elegance comes from executing the vision well.\n    41\t\n    42\tRemember: Claude is capable of extraordinary creative work. Don't hold back, show what can truly be created when thinking outside the box and committing fully to a distinctive vision.\n    43\t", "uuid": "318df3f2-08c9-45ed-abff-65e54835b277"}]{"description":"Creating a Dark Fantasy themed GitHub README.md for Farrux","path":"/mnt/user-data/outputs/README.md","file_text":"<div align=\"center\">\n\n<!-- Dark Fantasy Banner -->\n<img src=\"https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=300&section=header&text=⚔%20FARRUX%20⚔&fontSize=60&fontColor=c0c0c0&animation=fadeIn&fontAlignY=45&desc=☠%20Backend%20Developer%20•%20Dark%20Code%20Architect%20☠&descSize=18&descAlignY=65&descColor=8b0000\" width=\"100%\"/>\n\n</div>\n\n<div align="center">
+  
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠛⠛⠛⠛⠛⠃⠀⠀⠀⠈⠛⠛⠋⠀⠀⠀⠘⠛⠛⠛⠛⠛⠁
+       「 F O R G E D   I N   D\n<i>\"From the abyss of code, I forge systems that never sleep.\"</i>\n</div>\n\n<br>\n\n```python\nclass DarkCodeArchitect:\n    def __init__(self):\n        self.name = \"Farrux\"\n        self.title = \"Backend Developer\"\n        self.languages = [\"Python\", \"C\", \"C++\", \"JavaScript\"]\n        self.dark_arts = [\"Flask\", \"Django\", \"PostgreSQL\", \"Docker\"]\n        self.motto = \"Every bug is a demon to be slain.\"\n\n    def summon(self):
+        return "☠ Ready to architect the darkness ☠"
+```
 
 ---
 
+<h2 align="center">⚔️ A R S E N A L &nbsp; O Sorcery</h3>\n\n<div align=\"center\">\n\n![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=c0c0c0)\n![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=flask&logoColor=8b0000)\n![Django](https://img.shields.io/badge/Django-1a0a2e?style=for-the-badge&logo=django&logoColor=c0c0c0)\n![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=8b0000)\n![C++](https://img.shields.io/badge/C%2B%2B-1a1a2e?style=for-the-badge&logo==\"center\">\n\n![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=8b0000)\n![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=c0c0c0)\n![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0a2e?style=for-the-badge&logo=bootstrap&logoColor=8b0000)\n![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=c0c0c0)\n![Jinja2](https://img.shields.io/badge/Jinja2-1a1a2e?style=for-the-badge&logo=jinja&logoColor=8b0000)\n\n</div></h3>\n\n<div align=\"center\">\n\n![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=c0c0c0)\n![MySQL](https://img.shields.io/badge/MySQL-1a0a2e?style=for-the-badge&logo=mysql&logoColor=8b0000)\n![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=for-the-badge&logo=sqlite&logoColor=c0c0c0)\n![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=8b0000)\n![Docker](https://img.shields.io/badge/Docker-1a0a2e?style=for-the-badge&logo=docker&logoColor=c0c0c0)\n![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=8b0000)\n![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=c0c0c0)\n![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the T L E &nbsp; S T A T S &bg_color=0d0d0d&title_color=8b0000&text_color=c0c0c0&icon_color=8b0000&border_color=1a0a2e&hide_border=false\" alt=\"GitHub Stats\" height=\"170\"/>\n&nbsp;&nbsp;\n<img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=nfarrux2197&layout=compact&theme=dark&bg_color=0d0d0d&title_color=8b0000&text_color=c0c0c0&border_color=1a0a2e&hide_border=false\" alt=\"Top Languages\" height=\"170\"/>\n\n</div>\n\n<br>\n\n<div align=\"center\">\n  \n<img src=\"https://github-readme-streak-stats.herokuapp.com/?user=nfarrux2197&background=0d0d0d&stroke=1a0a2e&ring=8b0000&fire=8b0000&currStreakNum=c0c0c0&sideNums=c0c0c0&currStreakLabel=8b0000&sideLabels=8b0000&dates=4a4a4a&border=1a0a2e\" alt=\"Streak Stats\"/>\n\n</div>\n\n<br>\n\n<div align=\"center\">\n<img src=\"https://github-readme-activity-graph.vercel.app/graph?username=nfarrux2197&bg_color=0d0d0d&color=c0c0c0&line=8b0000&point=c0c0c0&area=true&area_color=1a0a2e&hide_border=false&custom_title=⚔%20Contribution%20Chronicle%20⚔" width="95<source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nfarrux2197/nfarrux2197/output/github-snake-dark.svg\" />\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/nfarrux2197/nfarrux2197/output/github-snake.svg\" />\n  <img alt=\"Snake animation\" src=\"https://raw.githubusercontent.com/nfarrux2197/nfarrux2197/output/github-snake-dark.svg\" />\n</picture>.me/GG_LOLIMNOTDIE_GG">
+  <img src="https://img.shields.io/badge/☠_Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=8b0000\" alt=\"Telegram\"/>\n</a>\n&nbsp;&nbsp;\n<a href=\"https://www.linkedin.com/in/farrux-nurmetov-a031493a0/">
+  <img src="https://img.shields.io/badge/⚔_LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=c0c0c0\" alt=\"LinkedIn\"/>\n</a>\n&nbsp;&nbsp;\n<a href=\"mailto:nfarrux2197@gmail.com\">\n  <img src=\"https://img.shields.
 
-## 🖥️ TERMINAL
-```bash
-> boot Farrux.exe
+<br>
 
-[✔] Loading profile...
-[✔] Backend Developer detected
-[✔] Python environment ready
-[✔] Systems running...
+---
 
-> skills --list
-Python, Django, Flask, APIs, Automation
+<div align="center">
 
-> status
-ONLINE 🟢
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "The code that does not kill you makes you stronger."  ║
+║                                          — Dark Coder    ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```\n\n<img src=\"https://komarev.com/ghpvc/?username=nfarrux2197&color=8b0000&style=for-the-badge&label=SOULS+COLLECTED\" alt=\"Profile Views\"/>\n\n</div>\n\n<br>\n\n<img src=\"https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=150&section=footer\" width=\"100%\"/>\n"}[{"type": "text", "text": "File created successfully: /mnt/user-data/outputs/README.md", "uuid": "df99371a-88a9-4432-8f3c-74d9661bf629"}]{"filepaths":["/mnt/user-data/outputs/README.md"]}[{"type": "local_resource", "file_path": "/mnt/user-data/outputs/README.md", "name": "README", "mime_type": "text/markdown", "uuid": "3b28bf87-381b-4d5e-aacd-585532b4ee02"}]
+Вот твой новый README.md в стиле **Dark Fantasy**! Что я добавил и изменил:
+
+**Цветовая палитра** — тёмные тона: `#0d0d0d` (чёрный), `#1a0a2e` (тёмно-фиолетовый), `#8b0000` (кроваво-красный), `#c0c0c0` (серебро). Все бейджи переделаны под эту схему.
+
+**Новые элементы:**
+- Анимированный баннер-header/footer через capsule-render (стиль "venom")
+- ASCII-арт с тематической надписью
+- Python-класс `DarkCodeArchitect` как секция "About Me"
+- GitHub Stats, Streak Stats и Activity Graph в тёмной теме
+- Змейка контрибуций (для неё нужно настроить GitHub Action в репозитории)
+- Счётчик просмотров профиля как "SOULS COLLECTED"
+
+**Структура** — секции переименованы в фэнтези-стиле: "Arsenal of Darkness", "Battle Stats", "Summon Me" и т.д.
+
+> Для работы змейки контрибуций тебе нужно будет добавить GitHub Action в репозитории `nfarrux2197/nfarrux2197`. Если хочешь, могу помочь с настройкой!
