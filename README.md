@@ -13,6 +13,10 @@
 
 ---
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=1E88E5&center=true&vCenter=true&width=900&lines=Ataxanov+Sherzodbek;Backend+%7C+Database+%7C+Full+Stack;Python+%7C+Django+%7C+PostgreSQL;Data+Architect+%26+API+Builder+🔥;Night+Coder+🌙;Building+Scalable+Digital+Systems+🚀" />
+</h1>
+
 ## 🖥️ TERMINAL
 ```bash
 > boot Farrux.exe
