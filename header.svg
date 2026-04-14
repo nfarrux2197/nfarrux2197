@@ -1,0 +1,121 @@
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400&amp;display=swap');
+      .mono { font-family: 'JetBrains Mono', monospace; }
+
+      @keyframes typing {
+        from { width: 0 }
+        to   { width: 320px }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1 }
+        50%       { opacity: 0 }
+      }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(8px) }
+        to   { opacity: 1; transform: translateY(0) }
+      }
+      @keyframes orbitA {
+        from { transform: rotate(0deg)   translateX(38px) rotate(0deg) }
+        to   { transform: rotate(360deg) translateX(38px) rotate(-360deg) }
+      }
+      @keyframes orbitB {
+        from { transform: rotate(180deg) translateX(52px) rotate(-180deg) }
+        to   { transform: rotate(540deg) translateX(52px) rotate(-540deg) }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: .5 }
+        50%       { opacity: 1  }
+      }
+      @keyframes spinRing {
+        from { transform: rotate(0deg) }
+        to   { transform: rotate(360deg) }
+      }
+
+      .name-text {
+        display: inline-block;
+        overflow: hidden;
+        white-space: nowrap;
+        animation: typing 1.4s steps(18, end) .3s both;
+      }
+      .cursor {
+        animation: blink .75s step-end .3s infinite;
+      }
+      .sub { animation: fadeUp .6s ease 1.8s both; }
+      .tag1 { animation: fadeUp .5s ease 2.0s both; }
+      .tag2 { animation: fadeUp .5s ease 2.2s both; }
+      .tag3 { animation: fadeUp .5s ease 2.4s both; }
+
+      .od1 {
+        transform-origin: 60px 60px;
+        animation: orbitA 7s linear infinite;
+      }
+      .od2 {
+        transform-origin: 60px 60px;
+        animation: orbitB 11s linear infinite;
+      }
+      .glow-ring {
+        transform-origin: 60px 60px;
+        animation: spinRing 10s linear infinite;
+      }
+      .status-pulse { animation: pulse 2s ease-in-out infinite; }
+    </style>
+
+    <clipPath id="nameClip">
+      <rect x="0" y="0" width="320" height="32"/>
+    </clipPath>
+  </defs>
+
+  <rect width="800" height="120" fill="#05070f" rx="12"/>
+
+  <!-- Orbit rings -->
+  <circle cx="60" cy="60" r="38" fill="none" stroke="#7c6ff7" stroke-width=".5" opacity=".15"/>
+  <circle cx="60" cy="60" r="52" fill="none" stroke="#4fa3e8" stroke-width=".5" opacity=".08"/>
+
+  <!-- Spinning glow arc -->
+  <g class="glow-ring">
+    <circle cx="60" cy="60" r="44" fill="none" stroke="#7c6ff7" stroke-width="1"
+      stroke-dasharray="30 250" opacity=".35"/>
+  </g>
+
+  <!-- Avatar circle -->
+  <circle cx="60" cy="60" r="30" fill="#0d1224" stroke="#252d50" stroke-width="1"/>
+  <text x="60" y="70" text-anchor="middle" font-size="26">🧙</text>
+
+  <!-- Status dot -->
+  <circle cx="84" cy="84" r="6" fill="#05070f"/>
+  <circle cx="84" cy="84" r="5" fill="#3dd68c" class="status-pulse"/>
+
+  <!-- Orbit dots -->
+  <circle cx="60" cy="60" r="4" fill="#7c6ff7" class="od1"/>
+  <circle cx="60" cy="60" r="3" fill="#4fa3e8" class="od2"/>
+
+  <!-- Name with typing effect -->
+  <g transform="translate(114, 22)">
+    <g clip-path="url(#nameClip)">
+      <text class="mono name-text" y="24" font-size="22" font-weight="300"
+            fill="#dde4ff" letter-spacing="-.3">Farrux Nurmetov</text>
+    </g>
+    <rect x="322" y="4" width="2" height="22" fill="#7c6ff7" class="cursor"/>
+  </g>
+
+  <!-- Role -->
+  <text class="mono sub" x="114" y="68" font-size="11" fill="#5a6490" letter-spacing=".05em">
+    // Backend Developer · Uzbekistan 🇺🇿
+  </text>
+
+  <!-- Tags -->
+  <g class="tag1">
+    <rect x="114" y="82" width="58" height="18" rx="9" fill="rgba(124,111,247,.08)" stroke="#7c6ff7" stroke-width=".5" opacity=".8"/>
+    <text class="mono" x="143" y="95" text-anchor="middle" font-size="9" fill="#a594f9">Python</text>
+  </g>
+  <g class="tag2">
+    <rect x="178" y="82" width="54" height="18" rx="9" fill="rgba(79,163,232,.08)" stroke="#4fa3e8" stroke-width=".5" opacity=".8"/>
+    <text class="mono" x="205" y="95" text-anchor="middle" font-size="9" fill="#7ec8f5">Django</text>
+  </g>
+  <g class="tag3">
+    <rect x="238" y="82" width="52" height="18" rx="9" fill="rgba(61,214,140,.08)" stroke="#3dd68c" stroke-width=".5" opacity=".8"/>
+    <text class="mono" x="264" y="95" text-anchor="middle" font-size="9" fill="#6eedb0">Docker</text>
+  </g>
+</svg>
