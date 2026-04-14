@@ -81,7 +81,7 @@
 
   <!-- Avatar circle -->
   <circle cx="60" cy="60" r="30" fill="#0d1224" stroke="#252d50" stroke-width="1"/>
-  <text x="60" y="70" text-anchor="middle" font-size="26">🧙</text>
+  <text x="60" y="70" text-anchor="middle" font-size="26">:)</text>
 
   <!-- Status dot -->
   <circle cx="84" cy="84" r="6" fill="#05070f"/>
@@ -95,7 +95,7 @@
   <g transform="translate(114, 22)">
     <g clip-path="url(#nameClip)">
       <text class="mono name-text" y="24" font-size="22" font-weight="300"
-            fill="#dde4ff" letter-spacing="-.3">Farrux Nurmetov</text>
+            fill="#dde4ff" letter-spacing="-.3">Farrux</text>
     </g>
     <rect x="322" y="4" width="2" height="22" fill="#7c6ff7" class="cursor"/>
   </g>
