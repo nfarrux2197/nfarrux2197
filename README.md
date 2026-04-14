@@ -1,36 +1,63 @@
 <div align="center">
 
-# 👋 Hi, I'm Farrux  
-### 🧠 Backend Developer from Xorezm  
+# Farrux Nurmetov
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer;FastAPI+%7C+Django+%7C+Flask;Clean+Architecture+%7C+Scalable+Systems;Always+learning+new+tech&center=true&width=500&height=45">
+### Backend Engineer (Python)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 Summary
 
-💻 Backend developer focused on building **fast, scalable and reliable systems**  
-🚀 I specialize in APIs, microservices and backend architecture  
-🧠 I love clean code, performance optimization and system design  
+Backend developer focused on building **reliable, scalable and maintainable systems**.
+
+I work with Python ecosystems and enjoy designing APIs, backend architecture, and performance-oriented systems.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Focus Areas
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- API Design & Development
+- Backend Architecture (Monolith / Microservices)
+- Database Design & Optimization
+- Caching Strategies (Redis)
+- Performance & Scalability
+- Clean Code & System Design
 
-### Database & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+## 🛠 Tech Stack
+
+**Core**
+- Python
+- FastAPI
+- Django
+- Flask
+
+**Databases**
+- PostgreSQL
+- Redis
+
+**Dev & Infra**
+- Docker
+- Linux
+- Git
+- Nginx (basic deployment)
+
+---
+
+## 🚀 Featured Project
+
+### TaskFlow
+**Task management backend system**
+
+- Built with Python
+- Focus on clean architecture
+- Designed for scalability and performance
+- REST API-based system
+
+🔗 https://github.com/nfarrux2197/taskflow
 
 ---
 
@@ -38,63 +65,33 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nfarrux2197&show_icons=true&theme=radical&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nfarrux2197&show_icons=true&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfarrux2197&layout=compact&theme=radical&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/nfarrux2197/taskflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nfarrux2197&repo=taskflow&theme=radical" />
-</a>
-
-</div>
-
-### 🔥 TaskFlow
-A modern backend task management system built with Python.  
-Focused on clean architecture, scalability and performance.
-
----
-
-## 📈 What I'm Working On
-
-- ⚡ High-performance FastAPI systems  
-- 🧩 Microservices architecture  
-- 🗄️ Database optimization & caching strategies  
-- ☁️ Scalable backend infrastructure  
-
----
-
-## 🌐 Contact Me
-
-<div align="center">
-
-<a href="https://t.me/GG_LOLIMNOTDIE_GG">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="mailto:nfarrux2197@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/farrux-nurmetov-a031493a0/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfarrux2197&layout=compact&hide_border=true" height="160"/>
 
 </div>
 
 ---
 
+## 📌 Principles
+
+- Write code that is easy to maintain, not just to run
+- Optimize only when needed, not prematurely
+- Prefer simplicity over complexity
+- Think in systems, not just functions
+
+---
+
+## 📫 Contact
+
+- Telegram: https://t.me/GG_LOLIMNOTDIE_GG  
+- LinkedIn: https://www.linkedin.com/in/farrux-nurmetov-a031493a0/  
+- Email: nfarrux2197@gmail.com  
+
+---
+
 <div align="center">
 
-### 💡 "Build systems that scale, not just code that works"
-
-<img src="https://github.com/mayhemantt/mayhemantt/blob/output/github-contribution-grid-snake.svg" />
+**“Clean architecture beats clever code.”**
 
 </div>
