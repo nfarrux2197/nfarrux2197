@@ -49,8 +49,8 @@ I specialize in building APIs, microservices, and modern backend infrastructure.
 
 <!-- Pin your best repositories from GitHub profile settings (Customize your pins) -->
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nfarrux2197&repo=taskflow&theme=radical" /><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nfarrux2197&repo=taskflow&theme=radical" />
-
+- 🚀 **[taskflow](https://github.com/nfarrux2197/taskflow)**  
+  Fast and scalable task management backend built with Python.
 ---
 
 ## Contact Me
