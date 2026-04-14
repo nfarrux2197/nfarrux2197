@@ -1,73 +1,108 @@
 <div align="center">
+
+  <!-- Эксклюзивная астрономическая SVG-анимация -->
+  <svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg" style="border-radius: 16px; background: #0a0a1f;">
+    <defs>
+      <radialGradient id="nebula" cx="50%" cy="50%" r="80%" fx="40%" fy="40%">
+        <stop offset="0%" stop-color="#1a0033"/>
+        <stop offset="100%" stop-color="#0a0a1f"/>
+      </radialGradient>
+    </defs>
+    
+    <!-- Фон космоса -->
+    <rect width="800" height="280" fill="#0a0a1f"/>
+    
+    <!-- Небула -->
+    <ellipse cx="200" cy="100" rx="180" ry="90" fill="url(#nebula)" opacity="0.6"/>
+    <ellipse cx="620" cy="180" rx="140" ry="110" fill="#2a0044" opacity="0.4"/>
+    
+    <!-- Мерцающие звёзды -->
+    <circle cx="80" cy="50" r="3" fill="#ffffff">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="120" r="2.5" fill="#ffffff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="320" cy="70" r="4" fill="#ffffff">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="200" r="2" fill="#ffffff">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="580" cy="60" r="3.5" fill="#ffffff">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="720" cy="140" r="2.8" fill="#ffffff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Большие яркие звёзды -->
+    <circle cx="650" cy="90" r="5" fill="#ffeeaa">
+      <animate attributeName="r" values="4;6;4" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="190" r="4.5" fill="#ffeeaa">
+      <animate attributeName="r" values="3.5;5.5;3.5" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Лёгкий падающий метеор -->
+    <line x1="500" y1="30" x2="530" y2="70" stroke="#aaffff" stroke-width="2" opacity="0.8">
+      <animate attributeName="x1" values="500;750" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="530;780" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="30;100" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="70;140" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+    </line>
+    
+    <!-- Текст с твоим именем (космический шрифт) -->
+    <text x="400" y="220" font-family="Arial Black, sans-serif" font-size="42" fill="#00ffcc" text-anchor="middle" opacity="0.95">
+      FARRUX
+    </text>
+    <text x="400" y="255" font-family="Arial, sans-serif" font-size="18" fill="#88ffdd" text-anchor="middle">
+      Backend Alchemist • From Tashkent to the Stars
+    </text>
+  </svg>
+
   <h1>👋 Привет, я <a href="https://github.com/nfarrux2197">Farrux Nurmetov</a></h1>
-  <p><em>Backend Alchemist • Python Sorcerer • Строю системы, от которых не оторваться</em></p>
+  <p><em>Backend Alchemist • Python Sorcerer • Строю высоконагруженные системы, которые работают даже под звёздным давлением</em></p>
 
-  <!-- Эксклюзивная анимация (только для твоего профиля) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&color=00FF9D&center=true&vCenter=true&width=620&lines=Turning+ideas+into+bulletproof+backends;Python+%2B+Django+%2B+Flask+%3D+magic;Scaling+apps+that+handle+millions;From+Tashkent+with+%F0%9F%94%A5" alt="Farrux Typing" />
-
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=nfarrux2197&theme=radical&no-frame=true&margin-w=15&row=1&column=4" alt="Trophies" />
 </div>
 
 ---
 
-## 🔥 Кто я такой (и почему тебе стоит со мной работать)
+## 🔥 Обо мне
 
-Я не просто backend-разработчик. Я **архитектор цифровых крепостей** — создаю системы, которые работают как швейцарские часы даже под нагрузкой в миллионы запросов.  
+Из Ташкента, но мой код летает по всему миру.  
+Я создаю **надёжные, масштабируемые и красивые** backend-системы — от простых API до сложных микросервисов с Redis, Docker и PostgreSQL.
 
-Из Узбекистана, но код мой говорит на международном уровне. Люблю чистый код, Redis-под капотом, Docker-оркестры и момент, когда всё «взлетает» после деплоя.
+Люблю чистый код, оптимизацию и момент, когда проект «взлетает» в продакшен.
 
-**Сейчас в фокусе:**
-- Микросервисы и event-driven архитектура
-- Высоконагруженные API (Django + FastAPI)
-- Оптимизация баз и кэширование на стероидах
-- Эксперименты с AI-интеграциями в backend
+**Сейчас увлечён:**
+- Высоконагруженными приложениями
+- Event-driven архитектурой
+- Интеграцией AI в backend
+- Красивым и надёжным DevOps
 
 ---
 
-## 💻 Технологии (мой арсенал)
+## 💻 Мой технологический арсенал
 
 ### Backend & Fullstack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Frontend (чтобы понимать, с кем работаю)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Jinja2](https://img.shields.io/badge/Jinja2-323232?style=for-the-badge&logo=jinja&logoColor=white)
-
-### Databases & DevOps
+### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 Моя GitHub-статистика (живые и только мои)
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nfarrux2197&show_icons=true&theme=radical&hide_border=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfarrux2197&layout=compact&theme=radical&hide_border=true&hide_title=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nfarrux2197&theme=radical&hide_border=true&date_format=M%20j%2C%20Y)
-
-</div>
-
----
-
-## 📬 Давай общаться (только серьёзные предложения и интересные проекты)
+## 📬 Связаться со мной
 
 <div align="center">
   <a href="https://t.me/GG_LOLIMNOTDIE_GG"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -76,3 +111,5 @@
 </div>
 
 ---
+
+**Сделано в Ташкенте с 🔥, Python и любовью к космосу**
