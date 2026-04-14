@@ -27,3 +27,14 @@ Python, Django, Flask, APIs, Automation
 
 > status
 ONLINE 🟢
+
+⚡ TECH GRID
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,flask,cpp,c,html,css,js,bootstrap,postgres,mysql,sqlite,redis,docker,linux,git,github&theme=dark" /> </p>
+📊 SYSTEM ANALYTICS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nfarrux2197&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nfarrux2197&theme=chartreuse-dark&hide_border=true&background=000000" /> </p>
+🐍 LIVE ACTIVITY
+<p align="center"> <img src="https://github.com/nfarrux2197/nfarrux2197/blob/output/github-contribution-grid-snake.svg" /> </p>
+🧬 DIGITAL ZONE
+<p align="center"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"> </p>
+🌐 CONTACT TERMINAL
+<p align="center"> <a href="https://t.me/GG_LOLIMNOTDIE_GG"> <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF00"/> </a> <a href="https://www.linkedin.com/in/farrux-nurmetov-a031493a0/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00"/> </a> <a href="mailto:nfarrux2197@gmail.com"> <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00"/> </a> </p>
