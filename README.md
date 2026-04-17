@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Farrux</h1>
-  <p><em>Backend Developer from Xorezm</em></p>
+  <p><em>Backend Developer from Khorezm</em></p>
   <p>Building fast, reliable, and scalable backend systems with Python.</p>
 </div>
 
