@@ -49,10 +49,6 @@ I specialize in building APIs, microservices, and modern backend infrastructure.
 
 <!-- Pin your best repositories from GitHub profile settings (Customize your pins) -->
 
-- 🚀 **[taskflow](https://github.com/nfarrux2197/taskflow)**  
-  Fast and scalable task management backend built with Python.
----
-
 <table>
   <tr>
     <td width="50%">
