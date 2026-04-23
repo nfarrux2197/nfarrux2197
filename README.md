@@ -53,6 +53,32 @@ I specialize in building APIs, microservices, and modern backend infrastructure.
   Fast and scalable task management backend built with Python.
 ---
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 taskflow</h3>
+      <p>Fast and scalable task management backend built with Python.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat"/>
+      </p>
+      <a href="https://github.com/nfarrux2197/taskflow">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>👗 clother_shop_BETA</h3>
+      <p>Full-featured fashion e-commerce store built with Django. Includes product catalog, categories, admin panel and custom CSS design.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Status-Beta-orange?style=flat"/>
+      </p>
+      <a href="https://github.com/nfarrux2197/clother_shop_BETA">View Repository →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Contact Me
 
 <div align="center">
