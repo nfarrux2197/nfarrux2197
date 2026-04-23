@@ -16,6 +16,14 @@ I specialize in building APIs, microservices, and modern backend infrastructure.
 - Event-driven architecture
 - Database optimization and caching
 
+## 🌐 Languages
+
+| Language | Level |
+|---|---|
+| 🇺🇿 Uzbek | Native |
+| 🇷🇺 Russian | Fluent (C2) |
+| 🇬🇧 English | A2+ (Learning) |
+
 ---
 
 ## Technologies
