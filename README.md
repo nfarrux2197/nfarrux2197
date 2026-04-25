@@ -46,9 +46,9 @@ I specialize in building APIs, microservices, and modern backend infrastructure.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=nfarrux2197&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nfarrux2197&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nfarrux2197&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfarrux2197&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
