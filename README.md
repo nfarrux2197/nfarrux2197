@@ -74,7 +74,7 @@ I specialize in building APIs, microservices, and modern backend infrastructure.
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Status-Beta-orange?style=flat"/>
+        <img src="https://img.shields.io/badge/Status-Alpha-orange?style=flat"/>
       </p>
       <a href="https://github.com/nfarrux2197/clother_shop_BETA">View Repository →</a>
     </td>
